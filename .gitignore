@@ -1,0 +1,6 @@
+
+*.zip
+._*
+*DS_Store
+/OC/Resources
+/OC/Tools
